@@ -23,6 +23,12 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   15 hrs 8 mins   ███████████████████▓░░░░░   78.84 %
+Other        2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osadavc&show_icons=true&locale=en&layout=compact" alt="osadavc" /></p>
