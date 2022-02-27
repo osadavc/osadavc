@@ -22,13 +22,4 @@
 <a href="https://hashnode.com/@osadavc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@osadavc" height="30" width="40" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   15 hrs 8 mins   ███████████████████▓░░░░░   78.84 %
-Other        2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-```
-
-<!--END_SECTION:waka-->
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osadavc&show_icons=true&locale=en&layout=compact" alt="osadavc" /></p>
