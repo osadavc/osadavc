@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osadavc&label=Profile%20views&color=0e75b6&style=flat" alt="osadavc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/osadavidath" target="blank"><img src="https://img.shields.io/twitter/follow/osadavidath?logo=twitter&style=for-the-badge" alt="osadavidath" /></a> </p>
-
 - 🌱 I’m currently learning **Framer Motion**
 
 - 📝 I regularly write articles on [https://hashnode.com/@osadavc](https://hashnode.com/@osadavc)
