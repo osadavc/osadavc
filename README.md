@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osada Vidath</h1>
 <h3 align="center">A 15-year-old tech enthusiast who codes every time possible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osadavc&label=Profile%20views&color=0e75b6&style=flat" alt="osadavc" /> </p>
-
 - 🌱 I’m currently learning **Framer Motion**
 
 - 📝 I regularly write articles on [https://hashnode.com/@osadavc](https://hashnode.com/@osadavc)
