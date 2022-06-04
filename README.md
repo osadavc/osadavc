@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osada Vidath</h1>
-<h3 align="center">A 1111₂-year-old tech enthusiast who codes every time possible.</h3>
+<h3 align="center">A tech enthusiast who codes every time possible.</h3>
 
 - 🌱 I’m currently learning **Framer Motion**
 
