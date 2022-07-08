@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Framer Motion**
 
-- 📝 I regularly write articles on [https://hashnode.com/@osadavc](https://hashnode.com/@osadavc)
+- 📝 I regularly write articles on [https://blog.osadavidath.com/](https://blog.osadavidath.com/)
 
 - 💬 Ask me about **React, Next JS, TypeScript and JavaScript**
 
