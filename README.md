@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Osada Vidath</h1>
-<h3 align="center">A tech enthusiast who codes every time possible.</h3>
+<h1>Hey 👋, I am Osada</h1>
+<h4 style="margin-top: 1000px;">A tech enthusiast who codes every time possible.</h4>
 
-- 🌱 I’m currently learning **Unity Engine**
+</br>
+
+- 🌱 I’m currently learning **Unity Game Engine**
 
 - 📝 I regularly write articles on [https://blog.osadavidath.com](https://blog.osadavidath.com/)
 
 - 💬 Ask me about **React, Next JS, TypeScript and JavaScript**
 
-- 📫 How to reach me **osadavidath@gmail.com**
+- 📫 How to reach me **osada@osadavidath.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
