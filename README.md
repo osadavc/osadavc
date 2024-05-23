@@ -14,6 +14,40 @@
 ### Coding Stats: 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2018%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 508.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 75 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               65 repos            ██████████████░░░░░░░░░░░   56.52 % 
+JavaScript               30 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/osadavc/osadavc/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/05/2024 17:01:02 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
