@@ -1,7 +1,6 @@
 <h1>Hey 👋, I am Osada</h1>
 <h4 style="margin-top: 1000px;">Full stack developer with a passion to explore new technologies.</h4>
 
-</br>
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
@@ -14,9 +13,7 @@
 ### Coding Stats: 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C537%20hrs%2047%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C537%20hrs%2047%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
