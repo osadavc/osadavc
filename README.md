@@ -1,4 +1,4 @@
-<h1>Hey 👋, I am Osada</h1>
+<h1>Hey 👋 I am Osada</h1>
 <h4 style="margin-top: 1000px;">Full stack developer with a passion to explore new technologies.</h4>
 
 
