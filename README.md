@@ -2,7 +2,7 @@
 <h4 style="margin-top: 1000px;">Full stack developer with a passion to explore new technologies.</h4>
 
 
-- 🌱 I’m currently learning **Unity Game Engine**
+- 🌱 I’m currently learning **Framer Motion**
 
 - 📝 I regularly write articles on [https://blog.osadavidath.com](https://blog.osadavidath.com/)
 
