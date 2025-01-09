@@ -13,23 +13,7 @@
 ### Coding Stats: 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C712%20hrs%2047%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               37 hrs 35 mins      █████████████████████░░░░   84.78 % 
-JSON                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-SQL                      52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-
-🔥 Editors: 
-Cursor                   44 hrs 20 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in TypeScript** 
 
