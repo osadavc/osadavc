@@ -1,40 +1,12 @@
-<h1>Hey 👋  I am Osada</h1>
-<h4 style="margin-top: 1000px;">Full stack developer with a passion to explore new technologies.</h4>
+# Hey 👋 I'm Osada
 
+I like building stuff 🛠️
 
-- 🌱 I’m currently learning **Framer Motion**
+I enjoy working with **Next.js** and **TypeScript** to build modern web applications. I'm also passionate about exploring cool use cases of **AI and LLMs** and how they can enhance user experiences.
 
-- 📝 I regularly write articles on [https://blog.osadavidath.com](https://blog.osadavidath.com/)
+Check out my [X](https://x.com/osadavc) to see what cool thing I'm working on now! 🚀
 
-- 💬 Ask me about **React, Next JS, TypeScript and JavaScript**
+## Connect with me
 
-- 📫 How to reach me **osada@osadavidath.com**
+[LinkedIn](https://linkedin.com/in/osadavc) • [X](https://x.com/osadavc) • [GitHub](https://github.com/osadavc) • [Email](mailto:osadavidath@gmail.com)
 
-### Coding Stats: 
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.8%20million%20lines%20of%20code-blue)
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               82 repos            ███████████████░░░░░░░░░░   59.85 % 
-JavaScript               30 repos            █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osadavc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osadavidath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/osadavc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osadavc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13309879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13309879" height="30" width="40" /></a>
-<a href="https://instagram.com/osadavc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osadavc" height="30" width="40" /></a>
-<a href="https://hashnode.com/@osadavc" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" alt="@osadavc" height="30" width="40" /></a>
-</p>
